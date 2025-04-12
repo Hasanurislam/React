@@ -1,5 +1,5 @@
 .container1{
-    margin: 120px 220px  0px;
+    margin: 100px 220px  0px;
     line-height: 40px;
 }
 .container1 h1{
@@ -11,6 +11,7 @@
     width: 95%;
     font-size: 18px;
     font-weight: 550;
+    color: gray;
     
 
 }

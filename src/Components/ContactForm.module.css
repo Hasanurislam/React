@@ -1,0 +1,52 @@
+.container2{
+    display: flex;
+    gap: 32px;
+}
+.inpContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 14%;
+    width: 95%;
+    margin-top: 20px;
+    
+   
+    
+    
+}
+.main_Form{
+    display: flex;
+    gap: 300px;
+}
+.inp input{
+    width: 95%;
+    height: 40px;
+    font-size: 17px;
+}
+.inp label{
+    position: absolute;
+    margin-top: -9px;
+    margin-left: 18px;
+    background-color: white;
+    padding: 0px 10px;
+    font-size: 16px;
+    font-weight: 540;
+   
+}
+.text_inp{
+    width: 95%;
+    font-size: 17px;
+}
+.submit_btn{
+    
+    position: absolute;
+
+}
+.Third_Form{
+   
+    margin-left: 160px;
+}
+.output{
+    margin-left: 50px;
+    margin-bottom: 30px;
+}

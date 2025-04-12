@@ -1,16 +1,33 @@
 .btn1{
-    height: 44px;
+    height: 48px;
     min-width: 220px;
     font-size: 17px;
     gap: 8px;
     display: flex;
     align-items: center;
+    justify-content: center;
     border: 1px solid black;
     border-radius: 5px;
     color: white;
     background-color: black;
     font-weight: 500;
-    margin-left: 12% ;
+    margin-left: 100% ;
     margin-top: 30px;
     
+}
+.btn2{
+    height: 48px;
+    min-width: 480px;
+    font-size: 17px;
+    gap: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    margin-left: 11% ;
+    margin-top: 30px;
+    background-color: transparent;
 }
